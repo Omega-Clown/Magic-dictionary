@@ -1,0 +1,26 @@
+.inputWord{
+    border:none;
+    border-bottom: 1px solid #a3a8ad; ;
+}
+.c2{
+    width: 80vw;
+    display: flex;
+    // justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    input{
+        width: 50%;
+        outline: none;
+        font-weight: 550;
+        font-size: 1.5rem;
+        color: rgb(68, 56, 56);
+    }
+}
+html{
+    scroll-behavior: smooth;
+    // filter: invert(1) hue-rotate(180deg);
+}
+.button{
+    display: flex;
+    justify-content: flex-end;
+}

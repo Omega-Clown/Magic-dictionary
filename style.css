@@ -1,0 +1,40 @@
+.inputWord {
+  border: none;
+  border-bottom: 1px solid #a3a8ad;
+}
+
+.c2 {
+  width: 80vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.c2 input {
+  width: 50%;
+  outline: none;
+  font-weight: 550;
+  font-size: 1.5rem;
+  color: #443838;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+/*# sourceMappingURL=style.css.map */
